@@ -1,5 +1,4 @@
 aaaaaa
 close m.txt
 t vim
-t vim
-
+fuckl
